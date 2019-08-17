@@ -69,15 +69,20 @@ body {
 }
 
 .posts__date {
-  width: 30%;
+  width: 20%;
   color: $post-date-color;
   font-size: 1rem;
   font-family: $serif-fonts;
 }
 
 .posts__title {
-  width: 70%;
-  font-size: 2rem;
+  width: 80%;
+  font-size: 1.2rem;
+}
+
+.posts__excerpt {
+  width: 80%;
+  font-size: .5rem;
 }
 
 .posts__link {
