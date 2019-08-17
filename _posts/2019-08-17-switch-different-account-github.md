@@ -34,13 +34,12 @@ git clone https://github.com/user/repo-name.git
 - Unset "old" ssh key 
   - `ssh-add -D`, `ssh-add ~/.ssh/id_rsa`
 - **Most Importantly**, clean your keychain 
-```
 Open up Keychain access, click on All Items and search for git. You will get some items like this:
 
 ![Screenshot]({{ '/images/Screenshot-2018-08-17.png' }})
 
 Delete them. Now try to push the repo and git will ask you to write password for the user and you will be good to go.
-```
+
 
 # Useful references
 - [Multiple SSH Keys settings for different github account](https://gist.github.com/jexchan/2351996)
