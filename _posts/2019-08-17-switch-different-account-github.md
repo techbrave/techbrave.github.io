@@ -35,7 +35,7 @@ git clone https://github.com/user/repo-name.git
 ```
 Open up Keychain access, click on All Items and search for git. You will get some items like this:
 
-![Screenshot]({{ '/images/Screenshot-2018-08-17.jpg' }})
+![Screenshot]({{ '/images/Screenshot-2018-08-17.png' }})
 
 Delete them. Now try to push the repo and git will ask you to write password for the user and you will be good to go.
 ```
