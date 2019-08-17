@@ -2,9 +2,8 @@
 title: Switch multiple accounts with Github (Mac OSX)
 layout: post
 ---
-# Switch different account with Github
-##  Summary
 
+##  Summary
 ```
 In this post, we document key steps to switch Switch multiple accounts with git and github on Mac OSX.
 ```
