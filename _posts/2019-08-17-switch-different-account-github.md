@@ -1,9 +1,15 @@
 ---
-title: Switch different account Github
+title: Switch multiple accounts with Github (Mac OSX)
 layout: post
 ---
+# Switch different account with Github
+##  Summary
 
-# Summary
+```
+In this post, we document key steps to switch Switch multiple accounts with git and github on Mac OSX.
+```
+
+## Github related settings
 - First create different ssh keys for different accounts
 ```
 ssh-keygen -t rsa -C "your_email@youremail.com"
@@ -24,7 +30,7 @@ ssh-add ~/.ssh/id_rsa_techbrave (change it to the name assotiate with the accoun
 git clone https://github.com/user/repo-name.git
 ```
 
-# What I found useful
+## What I found useful after following above steps
 - Unset global git user, and set a new user
   - `git config --global --unset-all user.name`
   - `vim ~/.gitconfig`
