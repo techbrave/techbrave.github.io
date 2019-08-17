@@ -1,5 +1,9 @@
 // colors for the theme
 
+$blue: #0077b3;
+$blue-dark: darken($blue, 5);
+$blue-darker: darken($blue, 10);
+
 $green: #1b813e;
 $green-dark: darken($green, 5);
 $green-darker: darken($green, 10);
@@ -25,7 +29,7 @@ $white: #fff;
 // specific colors for page
 
 $body-bg-color: $white;
-$header-color: $green;
+$header-color: $blue;
 $footer-color: $grey;
 $icon-color: $grey;
 
