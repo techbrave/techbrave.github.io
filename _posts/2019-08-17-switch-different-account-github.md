@@ -4,9 +4,8 @@ layout: post
 ---
 
 ##  Summary
-```
-In this post, we document key steps to switch Switch multiple accounts with git and github on Mac OSX.
-```
+
+> In this post, we document key steps to switch Switch multiple accounts with git and github on Mac OSX.
 
 ## Github related settings
 - First create different ssh keys for different accounts
