@@ -188,7 +188,7 @@ Problem: determine plagiarism: You are given `n` programs, and you need to break
 
 Details are given in Solution 21.3 (Plagirism Detector). Incremental hashing function design is available Chapter 7. 
 
-Problem: Rolling hash
+Problem: [Rolling hash](https://en.wikipedia.org/wiki/Rolling_hash)
 
 >  The key to efficiency is using an incremental hash function, such as a function with the property that the hash code of a string is an additive function of each individual character. (Such a hash function is sometimes referred to as a **rolling hash**.) For such a function, getting the hash code of a sliding window of characters is very fast for each shift.
 
