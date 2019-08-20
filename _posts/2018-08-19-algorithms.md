@@ -2,6 +2,9 @@
 title: Java - Algorithms
 layout: post
 ---
+
+Summarize the key points of algorithm, based on content from Elements of the programming interview
+
 | Technique (Algorithm)                     | Key                                                          |
 | ----------------------------------------- | ------------------------------------------------------------ |
 | Sorting (binary search, partitionByPivot) | Reduce the complexity by soring the input. Or, if the input is sorted, we might apply standard divide and conquer algo pattern. |
