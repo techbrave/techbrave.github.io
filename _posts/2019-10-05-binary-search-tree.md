@@ -70,6 +70,9 @@ returns views of the portion of the keys lying in the given range. It takes (Olo
 * There are more situations to augment BST, for instance, you may add the number of nodes of the subtree in each node. Other cases, you may want to add the range of values stored in the subtree (min, max of each node)
 * BST property is a global property, a binary tree could have the property that each node's key is greater than the key at its left child, and smaller than the key at its right child, but it may not be "global"
 
-## 15.5
+## 15.5 Reconstruct a BST from traversal data
+https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
+https://leetcode.com/problems/recover-binary-search-tree/
 
-## 15.9
+## 15.9 Build a minimum height BST from a sorted array
