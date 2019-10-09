@@ -13,8 +13,14 @@ BST pros:
 - search the key
 - find Min/Max element
 - find successor (immediate next) and predecessor of a key
-- enumerate keys in a range, in worted order
+- enumerate keys in a range, in sorted order
 - unlike arrays, the keys can be added or removed in an efficient manner
+
+Leetcode related problems
+- search-in-a-binary-search-tree, closest-binary-search-tree-value
+- Second Minimum Node In a Binary Tree, kth-smallest-element-in-a-bst
+- inorder-successor-in-bst
+- insert-into-a-binary-search-tree
 
 # Bootcamp
 
@@ -76,3 +82,4 @@ https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 https://leetcode.com/problems/recover-binary-search-tree/
 
 ## 15.9 Build a minimum height BST from a sorted array
+
