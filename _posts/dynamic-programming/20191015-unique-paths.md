@@ -116,3 +116,81 @@ class Solution {
 ```
 
 # Follow-up 4: now you can move in all 4 directions, and you need to find shortest path from start to end (obstacles are in the grid)
+```java 
+// inspired based on leetcode unique paths iii
+// now we just want to know the shortest path from start to end, with obstacles
+public class UniquePathIV {
+    public int uniquePathsIV(int[][] grid) {
+        int ei = -1;
+        int ej = -1;
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                if (grid[i][j] == 2) {
+                    ei = i;
+                    ej = j;
+                }
+            }
+        }
+        boolean[][] visited = new boolean[grid.length][grid[0].length];
+        // Naive backtrack
+        // return backTrack(ei, ej, grid, visited);
+
+        Integer[][] memo = new Integer[grid.length][grid[0].length];
+        return backTrackWithMemo(ei, ej, grid, visited, memo);
+    }
+
+    private int backTrack(int i, int j, int[][] grid, boolean[][] visited) {
+        if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || visited[i][j] || grid[i][j] == -1) return -1;
+        // base
+        if (grid[i][j] == 1) {
+            return 0;
+        }
+
+        visited[i][j] = true;
+        int ans = Integer.MAX_VALUE;
+        for (int k = 0; k < 4; k++) {
+            int sub = backTrack(i + di[k], j + dj[k], grid, visited);
+            if (sub != -1) {
+                ans = Math.min(ans, sub + 1);
+            }
+        }
+        if (ans == Integer.MAX_VALUE) ans = -1;
+        visited[i][j] = false;
+        return ans;
+    }
+
+    private int backTrackWithMemo(int i, int j, int[][] grid, boolean[][] visited, Integer[][] memo) {
+        if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || visited[i][j] || grid[i][j] == -1) return -1;
+        // base
+        if (grid[i][j] == 1) {
+            return 0;
+        }
+        if (memo[i][j] != null) return memo[i][j];
+        visited[i][j] = true;
+        int ans = Integer.MAX_VALUE;
+        for (int k = 0; k < 4; k++) {
+            int sub = backTrackWithMemo(i + di[k], j + dj[k], grid, visited, memo);
+            if (sub != -1) {
+                ans = Math.min(ans, sub + 1);
+            }
+        }
+        if (ans == Integer.MAX_VALUE) ans = -1;
+        visited[i][j] = false;
+        memo[i][j] = ans;
+        return memo[i][j];
+    }
+
+    private int[] di = new int[]{-1, 1, 0, 0};
+    private int[] dj = new int[]{0, 0, -1, 1};
+
+    public static void main(String[] args) {
+        UniquePathIV uniquePathIV = new UniquePathIV();
+        int[][] grid = new int[3][3];
+        grid[0] = new int[]{1, 0, 0};
+        grid[1] = new int[]{-1, -1, 0};
+        grid[2] = new int[]{0, 0, 2};
+        int ans = uniquePathIV.uniquePathsIV(grid);
+        System.out.println(ans);
+    }
+}
+```
