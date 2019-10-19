@@ -73,5 +73,46 @@ you start at top-left, and end at bottom right. every cell has a cost grid[i][j]
     [4, 1, 0]
 ]
 
-# Follow-up 3: now you can move in all 4 directions, and you need to find shortest path from start to end (obstacles are in the grid)
+# Follow-up 3: you can move in all 4 directions, you need to find how many possible walks from start to end (obstacles are in the grid) 
+
 [LC Problem link](https://leetcode.com/problems/unique-paths-iii/)
+```java
+class Solution {
+    private int totalWalks = 0; 
+    
+    public int uniquePathsIII(int[][] grid) {
+        int emptyCnt = 1; 
+        int si = -1; int sj = -1;
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                if (grid[i][j] == 0) emptyCnt++; 
+                if (grid[i][j] == 1) {
+                    si = i; sj = j; 
+                }
+            }
+        }
+        boolean[][] visited = new boolean[grid.length][grid[0].length]; 
+        backTrack(si, sj, grid, visited, emptyCnt);
+        return totalWalks;
+    }
+    
+    // BruteForce, dfs + backtracking 
+    private void backTrack(int i, int j, int[][] grid, boolean[][] visited, int remains) {
+        if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || visited[i][j] || grid[i][j] == -1) return; 
+        // base
+        if (grid[i][j] == 2) {
+            if (remains == 0) totalWalks++; 
+            return; 
+        }
+        // try 
+        visited[i][j] = true;
+        backTrack(i-1, j, grid, visited, remains-1); 
+        backTrack(i+1, j, grid, visited, remains-1); 
+        backTrack(i, j-1, grid, visited, remains-1); 
+        backTrack(i, j+1, grid, visited, remains-1); 
+        visited[i][j] = false;
+    }
+}
+```
+
+# Follow-up 4: now you can move in all 4 directions, and you need to find shortest path from start to end (obstacles are in the grid)
