@@ -1,6 +1,7 @@
 ---
 title: Java - Recursion
 layout: post
+categories: [EPI_Java]
 ---
 
 summary: Calling a method with the same signature, to solve a smaller problem of the original problem. Typically, we can imply with search / enumeration / divide and concur. 

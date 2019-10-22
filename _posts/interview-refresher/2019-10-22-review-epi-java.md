@@ -24,4 +24,23 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
 
 # Algorithms
 
-[Post]
+[Post](https://techbrave.github.io/epi_java/2019/08/19/algorithms.html)
+
+- Sorting (quick select partition etc.)
+- Two pointers
+```
+    Remove Duplicates from Sorted Array
+    Two Sum II - Input array is sorted
+    Reverse Words in a String II
+    Rotate Array
+    Valid Palindrome
+    Container With Most Water
+    Product of Array Except Self
+    Rate this article:
+```
+- Divide and Conquer
+- Recusion (DFS + backtracking)
+```
+    Applicable: searching, enumeration, divide and conquer, and decomposing a complex problem into a set of similar smaller instances…
+```
+- BFS + Topological sort

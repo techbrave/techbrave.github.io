@@ -1,6 +1,7 @@
 ---
 title: Java - Hash Tables
 layout: post
+categories: [EPI_Java]
 ---
 
 Summary: HashMap are often related to trade-offs. If some application can tolerate increasing usage of space and reduce the usage of time, consider if hash tables can help

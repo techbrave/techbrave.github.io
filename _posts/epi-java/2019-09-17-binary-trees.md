@@ -1,6 +1,7 @@
 ---
 title: Java - Binary Trees
 layout: post
+categories: [EPI_Java]
 ---
 
 Summary: A binary tree is a data structure that is useful for representing hierarchy. Formally a binary tree is either empty or a root node together with a left binary tree and a right binary tree. The subtrees themselves are binary trees. 

@@ -1,6 +1,7 @@
 ---
 title: Java - Dynamic Programming
 layout: post
+categories: [EPI_Java]
 ---
 
 summary:  DP is a general technique for solving optimization, search, and counting problems that can be decomposed into subproblems. You should consider using DP whenever you have to make choices to arrive at the solution, specifically, when the solution relates to subproblems.

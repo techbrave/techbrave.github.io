@@ -1,6 +1,7 @@
 ---
 title: Java - Binary Search
 layout: post
+categories: [EPI_Java]
 ---
 
 Summary: Fundamentally, binary search is a natural elimination-based strategy for searching a sorted array. The idea is to eliminate half the keys from consideration by keeping the keys in sorted order. If the search key is not equal to the middle element of the array, one of the two sets of keys to the left and to the right of the middle element can be eliminated from further consideration 

@@ -1,6 +1,7 @@
 ---
 title: Java - Binary Search Tree
 layout: post
+categories: [EPI_Java]
 ---
 
 summary: keep elements in sorted manner in an array is computational expensive. Introducing new structure: binary search tree, to optimize the insertion, deletion, searching, find (min/max), successors and predecessors, and enumeration operations. 
