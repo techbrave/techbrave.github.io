@@ -1,7 +1,7 @@
 ---
 title: Data Structures and Algorithms, a recap
 layout: post
-categories: [Interview Refresher]
+categories: [InterviewRefresher]
 ---
 
 # Preparing a technical interview in just a couple days?
@@ -21,3 +21,7 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
 - Heaps
 - Hash Tables
 - Binary Search Trees 
+
+# Algorithms
+
+[Post]

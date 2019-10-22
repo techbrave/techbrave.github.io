@@ -1,7 +1,7 @@
 ---
 title: HashMap, LinkedHashMap and TreeMap
 layout: post
-categories: [Data Structures]
+categories: [DataStructures]
 ---
 
 # HashMap
