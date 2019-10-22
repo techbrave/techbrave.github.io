@@ -1,6 +1,7 @@
 ---
 title: Java - Algorithms
 layout: post
+categories: [EPI - Java]
 ---
 
 Summarize the key points of algorithm, based on content from Elements of the programming interview

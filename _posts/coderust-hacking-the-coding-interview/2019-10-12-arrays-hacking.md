@@ -1,7 +1,7 @@
 ---
 title: HackCodingInterview - Arrays
 layout: post
-categories: [Array, HackCodingInterview]
+categories: [HackCodingInterview]
 ---
 
 summary: This is my summary
