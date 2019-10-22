@@ -44,3 +44,21 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
     Applicable: searching, enumeration, divide and conquer, and decomposing a complex problem into a set of similar smaller instances…
 ```
 - BFS + Topological sort
+
+# Array
+[Remove even integer from array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/3jwxgpxRq0n)
+
+[Merge two sorted arrays](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/xV2WB4rl0lq)
+
+[Find two numbers add up to n](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/xVl0WZ09nY9)
+
+[Arrays of products of all elements except self](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/7nYN4DBMBDA)
+
+[Find minimum value in an array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/RMlvBQ7YRgR)
+
+[First Non-Repeating Integer in an Array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/m274vRXDnMp)
+
+[Find Second largest value in array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/xVL8RlZ210r)
+
+
+# Linked List
