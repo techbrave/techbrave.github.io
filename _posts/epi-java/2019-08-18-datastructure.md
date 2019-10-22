@@ -1,7 +1,7 @@
 ---
 title: Java - Data structure
 layout: post
-categories: [EPI - Java]
+categories: [EPI_Java]
 ---
 
 Summarize the key points of data structure, based on content from `Elements of the programming interview` 
