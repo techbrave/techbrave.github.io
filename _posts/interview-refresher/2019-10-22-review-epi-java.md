@@ -62,3 +62,13 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
 
 
 # Linked List
+[Insert at end](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/YQ5l1Gx3OnY)
+
+[Search in singly linked list](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/B8ND20nz9Kx)
+
+[Deletion at a doubly linked list](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/N0ZwvQR25mD)
+
+[Find length of a linked list](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/qVZBQMAN1zD)
+
+[Revesre a linked list](https://leetcode.com/problems/reverse-linked-list/submissions/)
+[Reverse a linked list ii](https://leetcode.com/problems/reverse-linked-list-ii/submissions/)
