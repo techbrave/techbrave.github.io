@@ -72,3 +72,14 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
 
 [Revesre a linked list](https://leetcode.com/problems/reverse-linked-list/submissions/)
 [Reverse a linked list ii](https://leetcode.com/problems/reverse-linked-list-ii/submissions/)
+
+# Stack and Queue
+[Generate Binary number from 1 to n using Queue](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/m2NMgL057Y9)
+
+[Implement two stacks using one array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/qVZZkJE4Vkp)
+
+[Reverse the first k elements of a queue](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/qVVJ82JZpq0)
+
+[Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+[Implement stack using queue](https://leetcode.com/problems/implement-stack-using-queues/submissions/)
