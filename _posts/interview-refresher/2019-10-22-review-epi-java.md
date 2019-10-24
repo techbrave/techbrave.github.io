@@ -83,3 +83,18 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
 [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 [Implement stack using queue](https://leetcode.com/problems/implement-stack-using-queues/submissions/)
+
+[Sort stack in ascending order](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/B86pOQ6lZ1x)
+
+[Evaluate Postfix Expressions using stack](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/3jyqOgOQDjM)
+
+[Next Greater Element using Stack](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/gxp1O56Jw16)
+
+[Solve celebrity problem with Stack](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/xVlP59VMRnq)
+
+[Check for balanced parenthesis with Stack](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/gx8qqlXKMxG)
+
+[Longest valid paren](https://leetcode.com/problems/longest-valid-parentheses/solution/)
+
+[Remove invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/solution/)
+
