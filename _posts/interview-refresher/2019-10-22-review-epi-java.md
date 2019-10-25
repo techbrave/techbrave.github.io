@@ -98,3 +98,16 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
 
 [Remove invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/solution/)
 
+# Graph 
+[Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/solution/)
+
+# Hash Tables
+
+[Find whether an array is a subset of another](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/gxx4Ro4LqY3)
+
+[Check if two arrays are disjoint](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/JYZK5mrnoZJ)
+
+## TreeMap
+### A guide to TreeMap: https://www.baeldung.com/java-treemap
+
+[Find Right Interval](https://leetcode.com/problems/find-right-interval)
