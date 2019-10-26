@@ -101,6 +101,23 @@ My plan is to briefly go over all the key concepts on first two days, and dive d
 # Graph 
 [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/solution/)
 
+[Implement BFS](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/YQ7jOBvY1LM)
+
+[Implement DFS](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/qVA0EqnQy47)
+
+[Cycle detection](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/m282ExAxXR0)
+
+[Find mother vertext](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/7nODy1vm2vj)
+
+[Count num of edges](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/mE8GgqAPVQG)
+
+[Check if a path exists between two nodes](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/gx20Z1kO9lD)
+
+[Check if given graph is a tree](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/qVDXOZ0pnzD)
+Tree: 1 connected component; n nodes, n-1 edges, no cycles
+
+[Shortest path between 2 nodes](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/qVl6g4PWYEk)
+
 # Hash Tables
 
 [Find whether an array is a subset of another](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/gxx4Ro4LqY3)
