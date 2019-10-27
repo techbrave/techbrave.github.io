@@ -1,4 +1,5 @@
-# What happened when you type a URL in browser(https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
+# What happened when you type a URL in browser
+[Article](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 
 ## DNS: Domain Name System
 DNS is a database that maintains the name of the website (URL) and the particular IP address it links to. 
