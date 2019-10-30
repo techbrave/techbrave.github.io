@@ -32,3 +32,9 @@ an example walk through (to help we determine the order of the for loops)
 > for loop 永远是从小状态到大状态，和时间有关
 
 [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)
+
+[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
+
+[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)
+
+[Perfect Squares](https://leetcode.com/problems/perfect-squares/)
