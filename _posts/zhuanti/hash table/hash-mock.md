@@ -20,3 +20,5 @@
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+
+[Maximun Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)

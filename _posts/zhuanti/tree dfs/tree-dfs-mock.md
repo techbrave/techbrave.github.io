@@ -12,3 +12,5 @@ Times: 2
 [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+[Flatten Binary Tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)

@@ -3,3 +3,5 @@
 [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 
 [Excel Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+
+[Rectangle Area](https://leetcode.com/problems/rectangle-area/)

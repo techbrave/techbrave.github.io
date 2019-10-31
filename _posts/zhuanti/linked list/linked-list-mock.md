@@ -3,3 +3,9 @@
 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 [Reorder list](https://leetcode.com/problems/reorder-list/)
+
+[Intersection of two linked list](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+
+[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)

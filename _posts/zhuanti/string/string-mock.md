@@ -6,3 +6,7 @@
 [Goat Latin](https://leetcode.com/problems/goat-latin/)
 
 [Ransom Note](https://leetcode.com/problems/ransom-note/)
+
+[Add bold tag in a string](https://leetcode.com/problems/add-bold-tag-in-string/)
+
+[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
