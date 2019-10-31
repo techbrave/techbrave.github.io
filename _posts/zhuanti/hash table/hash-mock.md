@@ -18,3 +18,5 @@
 [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
 
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+[Island Perimeter](https://leetcode.com/problems/island-perimeter/)

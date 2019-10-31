@@ -5,3 +5,7 @@
 [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
 
 [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
+
+[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
+
+[Product of array except self](https://leetcode.com/problems/product-of-array-except-self/)

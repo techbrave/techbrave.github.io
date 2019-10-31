@@ -8,3 +8,7 @@ Times: 2
 [Convert sorted array to binary tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
+
+[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)

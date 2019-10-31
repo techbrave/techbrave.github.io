@@ -4,3 +4,5 @@
 生成法？构造法？
 
 [Goat Latin](https://leetcode.com/problems/goat-latin/)
+
+[Ransom Note](https://leetcode.com/problems/ransom-note/)
