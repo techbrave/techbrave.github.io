@@ -1,3 +1,9 @@
+---
+title: Array
+layout: post
+categories: [Zhuanti]
+---
+
 # What is an array
 An  also referred to as a collection of elements is the simplest and most widely used Data Structure. Most of the Data Structures (e.g.Stack and Queue) were derived using the Array structure, which is why it is known as one of the central building blocks of Data Structures. 
 
