@@ -13,3 +13,5 @@
 [Missing Ranges](https://leetcode.com/problems/missing-ranges/)
 
 [Next Permuation](https://leetcode.com/problems/next-permutation/)
+
+[Plus One](https://leetcode.com/problems/plus-one/)

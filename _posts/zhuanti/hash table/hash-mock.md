@@ -22,3 +22,7 @@
 [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 
 [Maximun Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+
+[Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/solution/)
+
+[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
