@@ -1,4 +1,5 @@
 [String to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+Times : 2
 
 [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 

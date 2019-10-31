@@ -14,4 +14,6 @@
 
 [Next Permuation](https://leetcode.com/problems/next-permutation/)
 
+[Previous Permutation](https://leetcode.com/problems/previous-permutation-with-one-swap/)
+
 [Plus One](https://leetcode.com/problems/plus-one/)

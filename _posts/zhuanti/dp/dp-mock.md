@@ -50,3 +50,7 @@ an example walk through (to help we determine the order of the for loops)
 [Coin Change](https://leetcode.com/problems/coin-change/)
 
 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+[Last Stone Weight ii](https://leetcode.com/problems/last-stone-weight-ii/)
+
+[Dynamic Programming](https://leetcode.com/problems/longest-arithmetic-sequence/)

@@ -18,3 +18,9 @@ Times: 2
 [Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 [binary tree Longest consectutive sequence ii](Longest)
+
+[Maximum difference between node and ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+
+[Two sum iv input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+
+[Check completeness of a binary tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)

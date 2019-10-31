@@ -10,6 +10,8 @@
 
 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
+[Confusing Number](https://leetcode.com/problems/confusing-number/)
+
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 
 [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -30,3 +32,5 @@
 [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+[Design HashMap](https://leetcode.com/problems/design-hashmap/)

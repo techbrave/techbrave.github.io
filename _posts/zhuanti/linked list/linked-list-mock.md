@@ -11,3 +11,5 @@
 [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+[Copy list with random pointers](https://leetcode.com/problems/copy-list-with-random-pointer/)
