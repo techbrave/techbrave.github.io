@@ -14,3 +14,5 @@ Times: 2
 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 [Flatten Binary Tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+[Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)

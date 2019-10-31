@@ -48,3 +48,5 @@ an example walk through (to help we determine the order of the for loops)
 [Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
 [Coin Change](https://leetcode.com/problems/coin-change/)
+
+[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)

@@ -7,3 +7,5 @@
 [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 [Single element in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/solution/)
+
+[Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)

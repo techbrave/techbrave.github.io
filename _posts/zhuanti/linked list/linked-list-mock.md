@@ -9,3 +9,5 @@
 [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
