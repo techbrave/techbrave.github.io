@@ -5,3 +5,9 @@
 [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 [Moving Average from data stream](https://leetcode.com/problems/moving-average-from-data-stream/)
+
+[Design Circular queue](https://leetcode.com/problems/design-circular-queue/)
+
+[Valid parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+[Min stack](https://leetcode.com/problems/min-stack/)

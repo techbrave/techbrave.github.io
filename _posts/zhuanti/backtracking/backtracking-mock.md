@@ -9,3 +9,5 @@
 [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
 [Letter Combination of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+[N-queens ii](https://leetcode.com/problems/n-queens-ii/)

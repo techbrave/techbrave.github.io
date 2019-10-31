@@ -15,6 +15,8 @@
 [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 // 应该是要给多种解法
 
+[Intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
 [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
 
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -26,3 +28,5 @@
 [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/solution/)
 
 [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+
+[Group Anagrams](https://leetcode.com/problems/group-anagrams/)
