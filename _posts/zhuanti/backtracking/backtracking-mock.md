@@ -3,3 +3,5 @@
 [Brace Exapansion](https://leetcode.com/problems/brace-expansion/)
 
 [Campus Bike II](https://leetcode.com/problems/campus-bikes-ii/)
+
+[Word Search](https://leetcode.com/problems/word-search/)

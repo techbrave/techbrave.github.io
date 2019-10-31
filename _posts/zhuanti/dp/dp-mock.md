@@ -38,3 +38,11 @@ an example walk through (to help we determine the order of the for loops)
 [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)
 
 [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+[Knight Probability in a chess board](https://leetcode.com/problems/knight-probability-in-chessboard/)
+
+[Knight Dialer](https://leetcode.com/problems/knight-dialer/)
+
+[Guess Number Higher Or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+
+[Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/)

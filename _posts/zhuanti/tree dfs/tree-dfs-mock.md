@@ -1,3 +1,10 @@
 [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)
 
 [Delete nodes and return forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+Times: 2
+
+[Smallest Subtree with all the deepest nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
+
+[Convert sorted array to binary tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)

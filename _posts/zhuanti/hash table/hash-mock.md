@@ -11,3 +11,10 @@
 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+
+[Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+// 应该是要给多种解法
+
+[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
+
+[Valid Anagram](https://leetcode.com/problems/valid-anagram/)
