@@ -1,3 +1,10 @@
+---
+title: Two Pointers
+layout: post
+categories: [Zhuanti]
+---
+
+
 # What is a two pointer technique?
 
 对于求 2 个变量如何组合的问题
