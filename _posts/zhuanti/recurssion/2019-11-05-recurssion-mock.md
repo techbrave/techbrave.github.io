@@ -24,8 +24,46 @@ categories: [Zhuanti]
 
 [Scramble String](https://leetcode.com/problems/scramble-string/discuss/29396/Simple-iterative-DP-Java-solution-with-explanation)
 
+[Expression Add Operator](https://leetcode.com/problems/expression-add-operators/submissions/)
+
+// 11-06
+
+[Word Squares](https://leetcode.com/problems/word-squares/solution/)
+[Word Squares II](https://leetcode.com/problems/word-squares-ii)
+
+// complexity analysis
+
+[Factorization]()
+
+[Word Ladder II]()
+
+[Letter combination of a phone number]()
+
+[Sudoku solver]()
+
+[N-queens II]()
+
+[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/)
+
+[Palindromic Partitioning ii](https://leetcode.com/problems/palindrome-permutation-ii/)
+    // can form palindrom?
+    // no, return empty
+    // yes, case by case
+    // case1: odd total characters,
+    // case2: even total characters
+    // generate all palindrom, from half of the given characters (without duplicates)
 
 
+DP:
+[Valid permutations of DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/discuss/168278/C%2B%2BJavaPython-DP-Solution-O(N2))
+
+Related (hashmap,array)
+[Palindromic permutation](https://leetcode.com/problems/palindrome-permutation/solution/)
+
+[Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/)
+
+
+> Reference: https://www.cnblogs.com/jianxinzhou/p/4712148.html
 ---
 # Mock
 [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
