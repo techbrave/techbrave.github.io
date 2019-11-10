@@ -30,8 +30,42 @@ Pattern
 [Subarray product less than k](https://leetcode.com/problems/subarray-product-less-than-k/submissions/)
 
 [Dutch flag problem](https://www.educative.io/courses/grokking-the-coding-interview/RMBxV6jz6Q0)
+```java
+class DutchFlag {
+
+  public static void sort(int[] arr) {
+    int i = 0; int j = arr.length - 1; 
+    for (int k = 0; k <= j; k++) {
+      if (arr[k] == 0) {
+        swap(arr, i, k); 
+        i++;
+      }
+    }
+
+    for (int k = arr.length - 1; k >= 0; k--) {
+      if (arr[k] == 2) {
+        swap(arr, j, k); 
+        j--;
+      }
+    }
+  }
+
+  private static void swap(int[] arr, int i, int j) {
+    int t = arr[i]; arr[i] = arr[j]; arr[j] = t;
+  }
+}
+```
 
 [4Sum](https://leetcode.com/problems/4sum/submissions/)
+
+[4sum II](https://leetcode.com/problems/4sum-ii/submissions/)
+
+[Comparing String containing Backspace](https://www.educative.io/courses/grokking-the-coding-interview/xVKE8MJDlzq)
+
+[Minimum window of array when sorted, the whole array is sorted](https://www.educative.io/courses/grokking-the-coding-interview/N8rOAP6Lmw6)
+
+[Maximum trapping water](https://www.educative.io/courses/grokking-the-coding-interview/Bn22o0PzRoX)
+
 ---
 
 [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
