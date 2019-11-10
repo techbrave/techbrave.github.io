@@ -29,13 +29,9 @@ categories: [Zhuanti]
 // 11-06
 
 [Word Squares](https://leetcode.com/problems/word-squares/solution/)
-[Word Squares II](https://leetcode.com/problems/word-squares-ii)
-
 // complexity analysis
 
-[Factorization]()
-
-[Word Ladder II]()
+[Word Ladder II](https://leetcode.com/problems/word-squares/solution/)
 
 [Letter combination of a phone number]()
 

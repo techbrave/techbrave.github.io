@@ -1,3 +1,10 @@
+---
+title: String
+layout: post
+categories: [Zhuanti]
+---
+
+
 [Single Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)
 
 [Binary String with Substrings Representing 1 to N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)
@@ -16,3 +23,7 @@
 [Find and Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
 
 [Reverse only letters](https://leetcode.com/problems/reverse-only-letters/)
+
+---
+# Google
+[Palindromic substring](https://leetcode.com/problems/palindromic-substrings)
