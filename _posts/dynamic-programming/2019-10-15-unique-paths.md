@@ -22,6 +22,7 @@ categories: [DynamicProgramming]
 - 思路,终止条件 - 要到达星星位置，必须先到达星星左边或者星星上边的位置
 - 思路,最后一步 - 如果到达星星左边有a种办法，到达星星上边有b种办法，那到达星星就有a+b种办法
 - 思路,子问题 - 函数f(i,j)代表了到达任意位置(i,j)有多少种办法。
+- 补充: state-space tree will help you understand better on subproblem and redundancy
 
 ## 实现
 - 函数f(i, j)会告诉我到达位置(i,j)的办法
