@@ -21,6 +21,9 @@ Pattern
 
 [Squaring a Sorted Array](https://www.educative.io/courses/grokking-the-coding-interview/R1ppNG3nV9R)
 
+[2sum](https://leetcode.com/problems/two-sum/submissions/)
+// return index
+
 [3Sum](https://leetcode.com/problems/3sum/submissions/)
 
 [3Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)

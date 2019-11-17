@@ -20,6 +20,11 @@ A Two Dimensional Array is an array, that each element holds the reference to an
 
 [Remove even integer from array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/3jwxgpxRq0n)
 
+[Remove duplicate from sorted array ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/)
+
+[Merge sorted array](https://leetcode.com/problems/merge-sorted-array/)
+// O(1)
+
 [Merge two sorted arrays](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/xV2WB4rl0lq)
 
 [Find two numbers add up to n](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/xVl0WZ09nY9)
@@ -29,6 +34,8 @@ A Two Dimensional Array is an array, that each element holds the reference to an
 [Find minimum value in an array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/RMlvBQ7YRgR)
 
 [First Non-Repeating Integer in an Array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/m274vRXDnMp)
+
+[First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/)
 
 [Find Second largest value in array](https://www.educative.io/courses/data-structures-in-java-an-interview-refresher/xVL8RlZ210r)
 

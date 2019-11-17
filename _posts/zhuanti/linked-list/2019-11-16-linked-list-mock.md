@@ -1,3 +1,9 @@
+---
+title: Merge two sorted list
+layout: post
+categories: [Zhuanti]
+---
+
 [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)
 
 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
@@ -13,3 +19,8 @@
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 [Copy list with random pointers](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
+[Merge two sorted list](https://leetcode.com/problems/merge-two-sorted-lists/submissions/)
+
+---
+[Add two numbers](https://leetcode.com/problems/add-two-numbers/)
