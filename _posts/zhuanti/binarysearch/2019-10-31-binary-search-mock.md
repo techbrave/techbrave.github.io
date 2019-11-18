@@ -30,6 +30,8 @@ Sorted, Divide into half
 [Search in rotated sorted array](https://www.educative.io/courses/grokking-the-coding-interview/N8XZQ1q1O46)
 
 [Find max in rotated sorted array](https://www.educative.io/courses/grokking-the-coding-interview/R1v4P0R7VZw)
+
+[Kth smallest number in a multiplication table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/submissions/)
 ---
 # Mock
 

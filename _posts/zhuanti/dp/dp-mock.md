@@ -53,4 +53,6 @@ an example walk through (to help we determine the order of the for loops)
 
 [Last Stone Weight ii](https://leetcode.com/problems/last-stone-weight-ii/)
 
-[Dynamic Programming](https://leetcode.com/problems/longest-arithmetic-sequence/)
+[Longest arithmetic sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)
+
+[Minimum window subsequence](https://leetcode.com/problems/minimum-window-subsequence/submissions/)

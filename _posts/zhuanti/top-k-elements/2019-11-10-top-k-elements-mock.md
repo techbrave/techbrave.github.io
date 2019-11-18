@@ -25,6 +25,8 @@ The best data structure that comes to mind to keep track of ‘K’ elements is 
 
 [Kth largest number in a stream](https://www.educative.io/courses/grokking-the-coding-interview/B819G5DZBxX)
 
+[kth largest number in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/)
+
 [K closest number](https://www.educative.io/courses/grokking-the-coding-interview/N8MJQNYyJPL)
 // min heap or two pointers?
 
