@@ -73,6 +73,8 @@ class DutchFlag {
 
 [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
+// 字符串匹配：KMP算法
+
 [3 sum](https://leetcode.com/problems/3sum/)
 
 [Move Zeros](https://leetcode.com/problems/move-zeroes/)
@@ -81,9 +83,11 @@ class DutchFlag {
 
 [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/)
 
+[Trapping rain water ii](https://leetcode.com/problems/trapping-rain-water-ii/submissions/) // shortest bar so far is the "barrier"
+
 [Interval list intersections](https://leetcode.com/problems/interval-list-intersections/)
 
-
+[3sum with multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/submissions/)
 --- 
 九章
 

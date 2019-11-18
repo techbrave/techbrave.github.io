@@ -19,6 +19,7 @@ categories: [Zhuanti]
 [Permutation in a string](https://www.educative.io/courses/grokking-the-coding-interview/N8vB7OVYo2D)
 
 [String Anagrams](https://www.educative.io/courses/grokking-the-coding-interview/YQ8N2OZq0VM)
+[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/)
 
 [Smallest window containing substring](https://www.educative.io/courses/grokking-the-coding-interview/3wDJAYG2pAR)
 
