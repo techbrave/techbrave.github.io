@@ -91,7 +91,9 @@ Times: 2
 
 [Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
-[binary tree Longest consectutive sequence ii](Longest)
+[binary tree longest consecutive sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
+
+[binary tree Longest consectutive sequence ii](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/)
 
 [Maximum difference between node and ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 
