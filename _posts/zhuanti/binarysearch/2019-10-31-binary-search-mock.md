@@ -32,6 +32,9 @@ Sorted, Divide into half
 [Find max in rotated sorted array](https://www.educative.io/courses/grokking-the-coding-interview/R1v4P0R7VZw)
 
 [Kth smallest number in a multiplication table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/submissions/)
+
+// binary search in solution space: a list 
+
 ---
 # Mock
 
