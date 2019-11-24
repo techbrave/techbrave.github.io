@@ -102,24 +102,18 @@ public static Subarray findSmallestSubarrayCoveringSet(List<String> paragraph,
 ```java
 public static BinaryTree<Integer> LCA(BinaryTree<Integer> n1,
                                       BinaryTree<Integer> n2) {
-  Set<BinaryTreeNode<Integer>> set = new HashSet<>();
-  while (n1 != null || n2 != null) {
-    if (n1 != null) {
-      if (set.contains(n1)) {
-        return n1;
-      }
-      n1 = n1.parent;
-    }
-    if (n2 != null) {
-      if (set.contains(n2)) {
-        return n2;
-      }
-      n2 = n2.parent;
-    }
-  }
-  throw new IllegalArgumentException (
-          "n1 and n2 are not in the same tree");
-}
+          Set<BinaryTree<Integer>> set = new HashSet<>();
+        while (n1 != null) {
+            set.add(n1);
+            n1 = n1.parent;
+        }
+        while (n2 != null) {
+            if (set.contains(n2)) return n2;
+            set.add(n2);
+            n2 = n2.parent;
+        }
+        return null;
+                                      }
 ```
 
 
