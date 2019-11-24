@@ -112,7 +112,7 @@ void partition(int[]A, int target) {
   int i = 0, j = A.length - 1;
   while (i < j) {
     while (i < j && A[i] < target) i++;
-    while (i < j && A[j] < target) j--;
+    while (i < j && A[j] > target) j--;
     if (i < j) {
       //swap A[i] and A[j]
     }
