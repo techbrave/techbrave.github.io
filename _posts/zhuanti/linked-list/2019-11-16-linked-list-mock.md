@@ -24,3 +24,5 @@ categories: [Zhuanti]
 
 ---
 [Add two numbers](https://leetcode.com/problems/add-two-numbers/)
+
+[LinkedList Insertion Sort](https://leetcode.com/problems/insertion-sort-list/)
