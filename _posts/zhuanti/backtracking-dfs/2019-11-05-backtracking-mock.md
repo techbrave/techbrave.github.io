@@ -23,6 +23,8 @@ Times 2
 
 [N-queens ii](https://leetcode.com/problems/n-queens-ii/)
 
+[Sudoku](https://leetcode.com/problems/sudoku-solver/)
+
 [Expression Add Operator]()
 lastFactor? 
 remember, * takes higher priority than +-
