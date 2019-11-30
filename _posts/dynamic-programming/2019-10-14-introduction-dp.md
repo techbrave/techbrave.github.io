@@ -50,3 +50,16 @@ https://cs.stackexchange.com/questions/10369/upper-bound-on-runtime-of-memoized-
 # Top-down v.s. buttom-up
 自顶向下：我的问题就是从大问题开始的。比如，从矩阵左上方出发，走到右下方，一共有多少走法。 In order to solve this big problem, 我必须要走到终点的左方，或者上方(大问题缩小了一步)。 当我每次不断缩小问题的时候，最后问题会变得很平凡（我的当前点就是出发点）。这时候就可以直接解了。
 自底向上：我不管我的问题什么时候能解决，我只知道，我现在从左上方出发了，我每一步能做一个选择。我不断地作选择， 最后会距离我的目标越来越近。当我终于通过一次一次的选择到达我的目标时，我的解也就找到了（yeah!
+
+# MIT Dynamic progamming 
+Lesson 1: Fibonacci array and Bellman-Ford (shortest path)
+Lesson 2: Text justification & Blackjack
+Lesson 3: ?
+
+
+According to the lecturer, the basic 5 steps involves in
+1. describe the problem (also related subproblems)
+2. guessing: how to relate subproblem to original problem?
+3. recurrance relation *
+4. topology order (solve the smallest trivial problem first)
+5. make sure the original problem is *solvable*
