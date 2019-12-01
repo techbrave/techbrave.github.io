@@ -26,14 +26,32 @@ categories: [HighFrequent]
   - sort a partially sorted array given range k `IntelliJ SortPartiallySortedArrayII`
 
 - [x] https://leetcode.com/discuss/interview-question/385860/Google-or-Onsite-or-Move-Target-Elements
-  - array
+  - array: `IntelliJ MoveTargetElements`
   - move zeros
 
-https://leetcode.com/discuss/interview-question/371640/Google-or-Onsite-or-Flip-Binary-Tree
-- tree
+- [x] https://leetcode.com/discuss/interview-question/371640/Google-or-Onsite-or-Flip-Binary-Tree
+  - `IntelliJ FlipTree`
+  - tree : https://www.careercup.com/question?id=6252860207529984
 
-https://leetcode.com/discuss/interview-question/385870/Google-or-Onsite-or-Word-Break-III
-- DP + Memo / (dp)
+- [x] https://leetcode.com/discuss/interview-question/385870/Google-or-Onsite-or-Word-Break-III
+  - DP + Memo / (dp) `Intellij WordBreakIII`
+
+- [x] https://leetcode.com/problems/long-pressed-name/submissions/ | https://leetcode.com/problems/expressive-words/solution/
+  - Two pointers / groupify
+
+- [x] https://leetcode.com/problems/sliding-puzzle/
+  - `IntelliJ - SlidingPuzzle`
+
+- [x] https://leetcode.com/discuss/interview-question/422725/google-phone-screen-lights-out-puzzle
+  - `IntelliJ - Lights out puzzle`
+
+- [x] https://leetcode.com/discuss/interview-question/435886/Google-or-Onsite-or-Find-Slow-Incomplete-APIs
+  - Hash
+
+- [x] https://leetcode.com/discuss/interview-question/373237/Google-or-Onsite-or-Tiling-a-rectangle-with-the-fewest-squares
+  - DP (however, it is wrong): https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
+
+
 
 https://leetcode.com/discuss/interview-question/340493/Google-or-Onsite-or-String-Conversion
 - https://leetcode.com/problems/string-transforms-into-another-string
@@ -87,32 +105,15 @@ https://leetcode.com/discuss/interview-question/366932/Google-or-Onsite-or-Self-
 https://leetcode.com/discuss/interview-question/350166/Google-or-Onsite-or-Timer
 - OOD
 
-https://leetcode.com/discuss/interview-question/373237/Google-or-Onsite-or-Tiling-a-rectangle-with-the-fewest-squares
-- DP (however, it is wrong): https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
-
-https://leetcode.com/problems/long-pressed-name/submissions/ | https://leetcode.com/problems/expressive-words/solution/
-
-- Two pointers / groupify
-
-
-https://leetcode.com/problems/sliding-puzzle/
-`IntelliJ - SlidingPuzzle`
-
-https://leetcode.com/discuss/interview-question/422725/google-phone-screen-lights-out-puzzle
-`IntelliJ - Lights out puzzle`
-
-树状数组：Segment Tree (升级版的Binary Index Tree)
-- YT: Segment Tree (https://www.youtube.com/watch?v=rYBtViWXYeI&t=304s)
-- YT: Binary Index Tree (range sum query) （https://www.youtube.com/watch?v=WbafSgetDDk)
-
-https://leetcode.com/discuss/interview-question/435886/Google-or-Onsite-or-Find-Slow-Incomplete-APIs
-- Hash
-
 https://leetcode.com/discuss/interview-question/435410/Google-or-Phone-or-Word-Ladder-and-Transform-String-Into-Another-String
-- 
+- DFS
 
 https://leetcode.com/discuss/interview-question/439046/Google-or-Phone-or-Minimum-Window-Subsequence
 - DP
 
 https://leetcode.com/problems/minimum-window-substring/
 - Sliding window
+
+树状数组：Segment Tree (升级版的Binary Index Tree)
+- YT: Segment Tree (https://www.youtube.com/watch?v=rYBtViWXYeI&t=304s)
+- YT: Binary Index Tree (range sum query) （https://www.youtube.com/watch?v=WbafSgetDDk)
