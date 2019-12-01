@@ -4,31 +4,30 @@ layout: post
 categories: [HighFrequent]
 ---
 
+- [x] https://leetcode.com/discuss/interview-question/350800/Google-or-Onsite-or-Chocolate-Sweetness 
+  - Dynamic programming on how to partition(TLE) : https://leetcode.com/problems/divide-chocolate/submissions/
+  - Binary Search on Answer: https://leetcode.com/problems/divide-chocolate/submissions/
+  - Simlar problems: Copy books
 
-https://leetcode.com/discuss/interview-question/350800/Google-or-Onsite-or-Chocolate-Sweetness 
+- [x] https://leetcode.com/discuss/interview-question/390551/Google-or-Onsite-or-Find-object-in-a-grid
+  - Binary search in an array `IntelliJ: FindObjectInGrid`
+  - https://leetcode.com/problems/find-in-mountain-array/
 
-- [Binary Search on Answer]
-- Copy books, chocolate sweetness
+- [x] https://leetcode.com/discuss/interview-question/391195/Google-or-Onsite-or-Go-(game)
+  - BFS `IntelliJ GoGame`
+  - Connected components
 
-https://leetcode.com/discuss/interview-question/390551/Google-or-Onsite-or-Find-object-in-a-grid
-- Binary search in an array
-- https://leetcode.com/problems/find-in-mountain-array/
+- [x] https://leetcode.com/discuss/interview-question/345744/Google-or-Onsite-or-Merge-K-Sorted-Iterators
+  - merge k sorted list: https://leetcode.com/problems/merge-k-sorted-lists/
+  - peek iterator: https://leetcode.com/problems/peeking-iterator/submissions/
 
-https://leetcode.com/discuss/interview-question/391195/Google-or-Onsite-or-Go-(game)
-- BFS? 
-- Connected components
+- [x] https://leetcode.com/discuss/interview-question/378774/Google-or-Onsite-or-Sort-a-Partially-Sorted-Array
+  - sort a partially sorted array (bucket sort) `IntelliJ SortPartiallySortedArray` 
+  - sort a partially sorted array given range k `IntelliJ SortPartiallySortedArrayII`
 
-
-https://leetcode.com/discuss/interview-question/345744/Google-or-Onsite-or-Merge-K-Sorted-Iterators
-- merge k sorted list (iterator version)
-- actually smart?
-
-https://leetcode.com/discuss/interview-question/378774/Google-or-Onsite-or-Sort-a-Partially-Sorted-Array
-- sort a partially sorted array
-
-https://leetcode.com/discuss/interview-question/385860/Google-or-Onsite-or-Move-Target-Elements
-- array
-- move zeros
+- [x] https://leetcode.com/discuss/interview-question/385860/Google-or-Onsite-or-Move-Target-Elements
+  - array
+  - move zeros
 
 https://leetcode.com/discuss/interview-question/371640/Google-or-Onsite-or-Flip-Binary-Tree
 - tree
@@ -81,15 +80,39 @@ https://leetcode.com/discuss/interview-question/342129/Google-or-Onsite-or-Light
 
 https://leetcode.com/discuss/interview-question/349416/Goolge-or-Onsite-or-Guess-Pin-Code
 
-
-
 https://leetcode.com/discuss/interview-question/366932/Google-or-Onsite-or-Self-Descriptive-Number
 - BF
 - observation
-
 
 https://leetcode.com/discuss/interview-question/350166/Google-or-Onsite-or-Timer
 - OOD
 
 https://leetcode.com/discuss/interview-question/373237/Google-or-Onsite-or-Tiling-a-rectangle-with-the-fewest-squares
-- Math, no idea how to do it
+- DP (however, it is wrong): https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
+
+https://leetcode.com/problems/long-pressed-name/submissions/ | https://leetcode.com/problems/expressive-words/solution/
+
+- Two pointers / groupify
+
+
+https://leetcode.com/problems/sliding-puzzle/
+`IntelliJ - SlidingPuzzle`
+
+https://leetcode.com/discuss/interview-question/422725/google-phone-screen-lights-out-puzzle
+`IntelliJ - Lights out puzzle`
+
+树状数组：Segment Tree (升级版的Binary Index Tree)
+- YT: Segment Tree (https://www.youtube.com/watch?v=rYBtViWXYeI&t=304s)
+- YT: Binary Index Tree (range sum query) （https://www.youtube.com/watch?v=WbafSgetDDk)
+
+https://leetcode.com/discuss/interview-question/435886/Google-or-Onsite-or-Find-Slow-Incomplete-APIs
+- Hash
+
+https://leetcode.com/discuss/interview-question/435410/Google-or-Phone-or-Word-Ladder-and-Transform-String-Into-Another-String
+- 
+
+https://leetcode.com/discuss/interview-question/439046/Google-or-Phone-or-Minimum-Window-Subsequence
+- DP
+
+https://leetcode.com/problems/minimum-window-substring/
+- Sliding window
