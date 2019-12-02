@@ -53,11 +53,11 @@ categories: [HighFrequent]
 
 
 
-https://leetcode.com/discuss/interview-question/340493/Google-or-Onsite-or-String-Conversion
-- https://leetcode.com/problems/string-transforms-into-another-string
+- [x] https://leetcode.com/discuss/interview-question/340493/Google-or-Onsite-or-String-Conversion
+  - https://leetcode.com/problems/string-transforms-into-another-string
 
-https://leetcode.com/discuss/interview-question/337515/Google-or-Onsite-or-Chunked-Palindrome
-- chunked palindrome
+- [x] https://leetcode.com/discuss/interview-question/337515/Google-or-Onsite-or-Chunked-Palindrome
+  - chunked palindrome
 
 https://leetcode.com/discuss/interview-question/306851/Google-or-Onsite-or-K-largest-values-with-labels
 - k largest (quick select)?

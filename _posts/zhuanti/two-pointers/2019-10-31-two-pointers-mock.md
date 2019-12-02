@@ -91,4 +91,4 @@ class DutchFlag {
 --- 
 九章
 
-LinttCode 389. Find the difference
+LintCode 389. Find the difference

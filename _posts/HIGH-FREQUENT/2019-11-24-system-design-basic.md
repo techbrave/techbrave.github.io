@@ -90,6 +90,11 @@ categories: [HighFrequent]
 
 
 # Long-polling VS Websocket vs server-sent events
+- How to detect new message has been sent? Poll 
+  - Redundant empty responses? long poll
+
+- Can server be "proactive"?
+  - Websocket (bidirectional), push notification
 
 # System design steps (methodology)
 1. Clarify the requirement, and focus on the key features (~3)
