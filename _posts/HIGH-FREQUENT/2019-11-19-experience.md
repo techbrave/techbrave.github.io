@@ -4,7 +4,6 @@ layout: post
 categories: [HighFrequent]
 ---
 
-
 # Caching
 - MemcacheD
 
@@ -64,4 +63,3 @@ What is your experience in using Mongo DB?
 We use this a lot
 
 # SQS / SNS
-
